@@ -1,0 +1,119 @@
+body{
+    background-color: rgb(39, 37, 37);
+}
+
+
+header{
+    font-size: 60px;
+    font-family: monospace;
+    font-weight: 500;
+    color: crimson;
+    background-color: black;
+    padding: 50px;
+    text-align: center;
+    margin-top: -10px;
+    margin-left: -10px;
+}
+
+div h1{
+    margin-top: 100px;
+    text-align: center;
+    color: rgba(14, 158, 168, 0.747);
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    
+}
+
+#container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 10px;
+}
+
+
+.cont{
+    background-color: aliceblue;
+    width: 300px;
+    height: 350px;
+    margin: 100px;
+    border-radius: 50%;
+}
+
+.image1{
+    background-image: url(Valorant.jpg);
+    height: 400px;
+    background-position: center;
+    background-size: 360px;
+    background-repeat: no-repeat;
+    border-radius: 20%;  
+}
+.image2{
+    background-image: url(Dying\ light.jpg);
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;  
+    border-radius: 20%;
+}
+
+.image3{
+    background-image: url(Sleeping\ dogs.jpg);
+    height: 400px;
+    background-position: left;
+    background-repeat: no-repeat;
+    border-radius: 20%;  
+}
+
+
+div h2{
+    margin-top: 100px;
+    text-align: center;
+    color: rgba(14, 158, 168, 0.747);
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    
+}
+
+#chill{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+#Box{
+    display: flex;
+    flex-direction: row;
+    /* background-color: white; */
+}
+.Box{
+    background-color: aliceblue;
+    width: 300px;
+    height: 350px;
+    margin: 100px;
+    border-radius: 50%;
+}
+
+.image4{
+    background-image: url(attack\ on\ titan.jpg);
+    height: 400px;
+    background-position: center;
+    background-size: 360px;
+    background-repeat: no-repeat;
+    border-radius: 20%;  
+}
+.image5{
+    background-image: url(Documentary.jpg);
+    height: 400px;
+    background-position: center;
+    background-size: 300px;
+    background-repeat: no-repeat;  
+    border-radius: 20%;
+}
+
+.image6{
+    background-image: url(OSM.jpg);
+    height: 400px;
+    background-position: center;
+    border-radius: 20%;  
+}
+

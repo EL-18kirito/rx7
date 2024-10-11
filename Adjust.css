@@ -1,0 +1,36 @@
+body {
+    background-image: url(anime-moon-landscape_23-2151645809.avif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 2500px;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color: rgba(221, 134, 20, 0.671);
+
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color: rgba(206, 126, 21, 0.753);
+    line-height: normal;
+    word-spacing: normal;
+    
+}
+
+p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-seri;
+    color: rgb(189, 236, 18);
+    font-size: 25px;
+    font-weight: 500;
+}
+
+ol{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-seri;
+    color: rgb(189, 236, 18);
+    font-size: 25px;
+    font-weight: 500;
+}
